@@ -1,0 +1,36 @@
+#wel{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color:rgb(255, 255, 255);
+    border: 2px solid #000000;
+    border-radius: 40px;
+    margin-top:150px;
+    text-align: justify;
+    height:200px;
+  }
+  #sign{
+    text-decoration: none;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    border:2px solid red;
+    border-radius: 8px;
+    padding:6px;
+  }
+  #bttn{
+    border-radius: 10px;
+    color: #e6e6e6;
+  }
+  #lg{
+    text-decoration: none;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    border:2px solid red;
+    border-radius: 8px;
+    padding:6px;
+  }
+ a:hover {
+    background-color: #e73d3d;
+     color: rgb(225, 215, 29);
+   }
+ 

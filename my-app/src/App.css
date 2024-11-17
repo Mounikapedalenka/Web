@@ -1,0 +1,27 @@
+.App-header {
+  text-align:center;
+  background-color: rgb(48, 165, 208);
+}
+
+#mou3{
+  position:absolute;
+  padding:80px ;
+  margin-left:650px;
+  float: left;
+  top:30px;
+
+}
+#mark{
+position: absolute;
+background-color: rgb(109, 180, 242);
+width:1522px;
+top:685px;
+font-size: 25px;
+color:red;
+border-radius: 10px;
+}
+#scro{
+  text-decoration: none;
+}
+
+

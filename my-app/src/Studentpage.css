@@ -1,0 +1,14 @@
+.tab{
+    margin-left:15px;
+    margin-top:50px;
+}
+table{
+    border-collapse: collapse;
+    border-width:3px;
+}
+tr{
+    height:50px ;
+}
+body{
+    background-color: rgb(116, 212, 241);
+}

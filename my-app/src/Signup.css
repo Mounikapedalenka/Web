@@ -1,0 +1,38 @@
+form{
+    width:360px;
+    min-height:min-content;
+    background-color: rgb(105, 224, 218);
+    border-radius:25px;
+    padding:10px;
+    max-width: 600px;
+    color:rgb(0, 0, 0);
+    margin:auto;
+    font-size:20px;
+    border:rgb(250, 145, 145);
+    border-top: 30%;
+    margin-top: 145px;
+}
+.form h1{
+    color:rgb(246, 164, 155);
+    margin-bottom:25px;
+    font-size:30px;
+
+}
+button{
+        background-color: rgb(248, 49, 49);
+        border:none;
+        color:white;
+        text-align: center;
+        text-decoration: none;
+        display:inline-block;
+        font-size:13px;
+
+    }
+input{
+    width:340px;
+    height:40px;
+    border-radius: 10px;
+}
+u{
+    text-decoration: none;
+}

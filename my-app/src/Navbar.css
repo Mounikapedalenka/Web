@@ -1,0 +1,90 @@
+nav{
+   
+    background-color: rgb(116, 212, 241);
+    height:70px;
+    width: 1550px;
+
+}
+.nav a:hover {
+    background-color: #bc1b1b;
+     color: rgb(225, 215, 29);
+   }
+.active{
+    font-size:16px;
+    text-decoration: none;
+    margin-left:80px;
+    margin-right:10px;
+    color:red;
+    border:2px solid red;
+    border-radius: 8px;
+    padding:6px;
+    float:left;
+    margin-top:15px;
+}
+.activ{
+    font-size:16px;
+    text-decoration: none;
+    margin-left:50px;
+    margin-right:10px;
+    color:red;
+    border:2px solid red;
+    border-radius: 8px;
+    padding:6px;
+    float:left;
+    margin-top:15px;
+}
+.acti{
+    font-size:16px;
+    text-decoration: none;
+    margin-left:50px;
+    margin-right:10px;
+    color:red;
+    border:2px solid red;
+    border-radius: 8px;
+    padding:6px;
+    float:left;
+    margin-top:15px;
+}
+.act{
+    font-size:16px;
+    text-decoration: none;
+    margin-left:50px;
+    margin-right:10px;
+    color:red;
+    border:2px solid red;
+    border-radius: 8px;
+    padding:6px;
+    float:left;
+    margin-top:15px;
+}
+.ac{
+    font-size:16px;
+    text-decoration: none;
+    margin-left:550px;
+    margin-right:10px;
+    color:red;
+    border:2px solid red;
+    border-radius: 8px;
+    padding:6px;
+    float:left;
+    margin-top:15px;
+}
+.a{
+    font-size:16px;
+    text-decoration: none;
+    margin-left:50px;
+    margin-right:10px;
+    color:red;
+    border:2px solid red;
+    border-radius: 8px;
+    padding:6px;
+    float:left;
+    margin-top:15px;
+}
+#img{
+    margin-left: 00px;
+    width:200px;
+    height:70px;
+    float:left;
+    margin-top:0px;    
+}

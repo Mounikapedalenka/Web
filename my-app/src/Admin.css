@@ -1,0 +1,14 @@
+.container1{
+    width:360px;
+    min-height: min-content;
+    background-color: rgb(96, 162, 198);
+    border-radius: 25px;
+    padding: 10px;
+    max-width: 600px;
+    color: rgb(186, 226, 43);
+    margin:auto;
+    font-size: 20px;
+    border: rgb(87, 101, 126);
+    margin-top: 100px;
+    text-align: center;
+}

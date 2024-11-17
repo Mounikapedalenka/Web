@@ -1,0 +1,34 @@
+#mou{
+    background-color: aquamarine;
+     padding:30px ;
+     margin-left:200px;
+     margin-top:57px;
+     max-width: 220px;
+   border-radius: 10px;
+   text-align:justify;
+   font-size: 12px;
+   }
+   #mou1{
+     position: absolute;
+     background-color: aquamarine;
+      padding:30px ;
+      float: left;
+      margin-left:620px;
+      max-width: 220px;
+      top:125px;
+    border-radius: 10px;
+    text-align:justify;
+    font-size: 12px;
+    }
+    #mou2{
+     position: absolute;
+     background-color: aquamarine;
+      padding:30px ;
+      float: left;
+      margin-left:1040px;
+      max-width: 220px;
+      top:125px;
+    border-radius: 10px;
+    text-align:justify;
+    font-size: 16px;
+    }

@@ -1,0 +1,20 @@
+.container1{
+    width:500px;
+    min-height: min-content;
+    background-color:rgb(133, 208, 233);
+    border-radius: 25px;
+    padding: 10px;
+    max-width: 600px;
+    color:black;
+    font-size: 20px;
+    border: rgb(119, 141, 178);
+    margin-top: 100px;
+    text-align:center;
+  }
+  i{
+    margin:0px;
+    color: black;
+  }
+  #so{
+    text-decoration: none;
+  }
